@@ -1,2 +1,8 @@
 # hello-world
-This is a copy of my first repository
+
+Hi Human!
+
+Boy I sure do hope that it becomes intuitive to use Github!
+
+Hugs and Kisses!
+Boobooz
